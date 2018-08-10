@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/umutyerli/heroku-aws-bucket-test/issues"
   },
-  "homepage": "https://github.com/umutyerli/heroku-aws-bucket-test#readme"
+  "homepage": "https://github.com/umutyerli/heroku-aws-bucket-test#readme",
+  "dependencies": {
+    "pg": "^7.4.3",
+    "sendgrid": "^5.2.3"
+  }
 }
